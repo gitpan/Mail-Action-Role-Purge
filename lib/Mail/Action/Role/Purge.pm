@@ -47,7 +47,7 @@ use Class::Roles
     
 use vars '$VERSION';
 
-$VERSION = 0.010_000;
+$VERSION = '0.11';
  
 use File::Basename;
 use Fcntl ':flock';

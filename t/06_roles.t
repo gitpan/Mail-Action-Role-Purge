@@ -1,4 +1,10 @@
-#!/usr/bin/perl -w
+#!/usr/bin/perl
+#
+# $Id: 06_roles.t 155 2004-12-27 04:19:23Z james $
+#
+
+use strict;
+use warnings;
 
 BEGIN
 {
